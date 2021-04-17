@@ -1,0 +1,48 @@
+.container {
+      margin: 6rem;
+      padding: 1.5rem 1.5rem 0 1.5rem;
+      border: 0.1rem solid #D6FFF5; 
+}
+    
+.form {
+      width: 100%;
+      padding-bottom: 1.5rem;
+}
+    
+.form__field label {
+      display: block;
+      font-size: 2rem;
+      line-height: 2rem;
+      padding-top: 1.5rem;
+}
+    
+.form__field input {
+     width: 100%;
+     background: #001534;
+     border: 0.1rem solid #15DEA5;   
+}
+
+.btn {
+    background-color: #001534;
+    color: #D6FFF5;
+    padding: 1.5rem;
+}
+
+.bnt-wide {
+    width: 100%;
+}
+
+.btn-rounded {
+    border-radius: 3rem;
+}
+
+button {
+    background-color: black;
+}
+#submit-button {
+    background-color: #15DEA5;
+}
+
+.button {
+    background-color: #DB454B;
+}
